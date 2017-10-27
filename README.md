@@ -24,6 +24,8 @@
    * 動作しなかった
  * https://qiita.com/shskwmt/items/fffabf521201f5835214
    * ここから学ぶ必要があった
+ * http://japanese.engadget.com/2017/10/26/bluetooth/
+   * 工作するとボタンマッピング変更できるとか
  * http://d.hatena.ne.jp/wakwak_koba/20170831
 
 
